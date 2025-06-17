@@ -49,7 +49,7 @@
 | 🎚️ Band-Pass Filter | MATLAB | Center freq = 1.5 kHz, BW = 300 Hz (RLC circuit) |
 | 🌐 University Website | HTML/CSS | Clean and responsive front-end project |
 | 🏋️ Gym Website | HTML/CSS/JS | Static UI for a modern fitness studio |
-| ⚡ Steam Power Plant | Multisim | Simulated power generation flow |
+| ⚡ Steam Power Plant | Hardform |  power generation flow |
 
 ---
 
